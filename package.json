@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/thebeebs/botbuilder-translation/issues"
   },
-  "homepage": "https://github.com/thebeebs/botbuilder-translation#readme"
+  "homepage": "https://github.com/thebeebs/botbuilder-translation#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "mstranslator": "^3.0.0",
+    "request": "^2.81.0"
+  }
 }
