@@ -1,0 +1,23 @@
+{
+  "name": "botbuilder-translation",
+  "version": "0.1.0",
+  "description": "Translation middleware for the Microsoft bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thebeebs/botbuilder-translation.git"
+  },
+  "keywords": [
+    "translation",
+    "botframework"
+  ],
+  "author": "thebeebs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebeebs/botbuilder-translation/issues"
+  },
+  "homepage": "https://github.com/thebeebs/botbuilder-translation#readme"
+}
